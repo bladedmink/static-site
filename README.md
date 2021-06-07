@@ -1,3 +1,2 @@
 # static-site
-Basic static site
-Test
+This is a static site!
